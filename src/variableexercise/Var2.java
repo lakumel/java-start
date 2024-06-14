@@ -23,7 +23,7 @@ public class Var2 {
         System.out.println(a);
         System.out.println(a);
         System.out.println(a);
-        System.out.println(a);
+        System.out.println(a);// 인텔리제이 깃 push test push test git push test
 
     }
 
