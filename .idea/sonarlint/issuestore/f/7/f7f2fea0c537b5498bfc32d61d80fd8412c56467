@@ -1,0 +1,9 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¶çÍ®øÿÿÿÿJ$fac605df-83b5-4e62-9c94-92d90392a3cf
+‡
+java:S1192
+"FDefine a constant instead of duplicating this literal " sum=" 3 times.(´Æ¦ŸüÿÿÿÿJ$5e6e2767-b658-4fa6-820c-1924292f45f0
+k	java:S106
+"+Replace this use of System.out by a logger.(´Æ¦ŸüÿÿÿÿJ$73813e88-37c6-460c-8fb3-f3bc26eae45a
+k	java:S106"+Replace this use of System.out by a logger.(´Æ¦ŸüÿÿÿÿJ$d449ce20-e5d0-42bc-aa6f-ad51671d6c03
+k	java:S106"+Replace this use of System.out by a logger.(´Æ¦ŸüÿÿÿÿJ$390b09a3-4db8-45ee-9f12-8dbe181578d7

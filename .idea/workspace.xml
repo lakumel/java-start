@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="798379cb-5064-40e3-bfcf-6085d05339a2" name="변경" comment="616">
+      <change afterPath="$PROJECT_DIR$/1/Chapter06/ex01/Object01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/Chapter06/ex01/Object02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/Chapter06/ex01/Object03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/Chapter06/ex01/Object04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/Chapter06/ex01/Object05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/Chapter06/ex01/Object06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/Chapter07/ex01/Field01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/Chapter07/ex01/Field02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/Chapter07/ex02/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/Chapter07/ex02/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/Chapter07/ex02/Ex03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/Chapter07/ex02/Ex04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/Chapter07/ex02/Method01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/Chapter07/ex02/Method02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/Chapter07/ex02/Method03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/Chapter07/ex02/Method04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/Chapter07/ex02/Method05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/Chapter07/ex02/Method06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/Chapter07/ex03/Constructor01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/Chapter07/ex03/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/Chapter07/ex04/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/Chapter07/ex04/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/Chapter07/ex04/This_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/Chapter07/ex04/This_Method02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/Chapter07/ex04/This_ThisMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter05/ex01/Array_Definition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter05/ex01/Array_Definition02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter05/ex01/Array_Definition03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter05/ex01/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter05/ex02/Array_Initial_Value.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter05/ex03/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter05/ex03/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter05/ex03/PrimaryDataType_VS_ReferenceDataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter05/ex04/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter05/ex04/Rectangle_Array_Definition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter05/ex04/Rectangle_Array_Definition02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter05/ex05/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter05/ex05/Rectangle_Array_Output.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter05/ex06/Non_Raectangle_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter05/ex07/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter05/ex07/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter05/ex07/Main_Method_Arguent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter05/ex07/Main_Method_Argument02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter08/ex01/A_Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter08/ex01/A_Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter08/ex01/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter08/ex01/Package.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter08/ex02/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter08/ex02/A_Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter08/ex02/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter08/ex03/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter08/ex03/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter08/ex03/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter08/ex03/Private.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter08/ex04/Lombok.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter08/ex04/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter08/ex04/Member_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter08/ex04/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter08/ex04/Student_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter10/ex01/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter10/ex01/Inheritance01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter10/ex02/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter10/ex02/TypeCasting01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter10/ex03/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter10/ex03/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter10/ex03/Ex03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter10/ex03/MethodOverriding01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter10/ex03/MethodOverriding02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter10/ex04/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter10/ex04/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter10/ex05/Overrding_All_Info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter10/ex05/Overriding_Instance_Field.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter10/ex05/Overriding_Static_Field.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter10/ex05/Overriding_Static_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter10/ex06/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter10/ex06/Super_Keword02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter10/ex06/Super_Keyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter10/ex06/Super_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter10/ex06/Super_Method02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter10/ex07/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter10/ex07/Object_Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter10/ex07/Object_Class02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter10/ex07/Object_Class03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter11/ex01/Final_Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter11/ex01/Final_Field.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter11/ex01/Final_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter12/ex01/Abstract_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter12/ex01/Abstract_Method02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter12/ex01/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter12/ex02/Abstract_Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter12/ex02/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter12/ex03/Interface01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter12/ex04/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter12/ex04/Animal_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter12/ex04/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter12/ex04/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter12/ex04/Lion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter12/ex04/Tiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter12/ex05/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter12/ex05/Banana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter12/ex05/Fluit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter12/ex05/Fluit_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter12/ex06/Inharitance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter12/ex06/Inharitance02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter12/ex07/Default_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter14/ex01/Checked_Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter14/ex01/Unchecked_Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter14/ex02/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter14/ex02/TryCatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter14/ex03/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter14/ex03/Multi_Catch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter14/ex03/Multi_Catch02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter14/ex03/Multi_Catch03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter14/ex04/TryCatchWidthResource02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter14/ex04/TryCatchWithResource01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter14/ex05/Throws_Exception01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter14/ex05/Throws_Exception02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter14/ex05/Throws_Excption03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter14/ex06/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter14/ex06/Account_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter14/ex06/BalanceException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter14/ex06/CreateUserException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter14/ex06/Use_User_Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter16/ex01/ProbleamsBeforeGeneric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter16/ex02/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter16/ex02/Using_Object.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter16/ex03/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter16/ex03/Single_Gerneric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter16/ex04/TwoGenericAguments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter16/ex05/Genericmethod01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter16/ex06/AbableGenericMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter16/ex07/BoundedTypeOfGeneric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter16/ex07/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter16/ex08/BoundedTypeOfGenericMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter16/ex09/BoundedTypeOfMethodArgument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter16/ex10/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter16/ex10/InheritanceGeneric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter17/ex01/Array_VS_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter17/ex01/List_ArrayList_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter17/ex02/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter17/ex02/Car_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter17/ex02/List_LinkedList_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter17/ex02/List_Vector_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter17/ex02/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter17/ex02/Student_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter17/ex03/ArrayList_VS_LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter17/ex04/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter17/ex04/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter17/ex04/Ex03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter17/ex04/Ex04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter17/ex04/Set_HashSet_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter17/ex04/Set_LinkedHashSet_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter17/ex04/Set_Machanism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter17/ex04/Set_Summary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter17/ex04/Set_TreeSet_Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter17/ex04/Set_TreeSet_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter17/ex04/Set_TreeSet_Method02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter17/ex05/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter17/ex05/Map_HashMap_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter17/ex05/Map_HashTable_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter17/ex05/Map_LinkedHashMap_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter17/ex05/Map_Summary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/chapter17/ex05/Map_TreeMap_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/hi/org/ConsoleOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/hi/org/ConsoleOutput2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/hi/org/ConsoleOutput3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/hi/org/Helloworld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/S2/chapter02/ex01/UsageOfDataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/S2/chapter02/ex02/NamingVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/S2/chapter02/ex03/RangeOfVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/S2/chapter02/ex04/PrimaryDataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/S2/chapter02/ex05/TypeCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/S2/chapter02/scanner01/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/S2/chapter02/scanner01/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/S2/chapter02/scanner01/Using_Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/S2/variableexercise/var3ex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/S2/variableexercise/var4ex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/S3/chapter03/ex01/ArithmeticOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/S3/chapter03/ex02/BitwiseOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/S3/chapter03/ex03/LogicalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/S3/chapter03/ex04/ReationOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/S3/chapter03/ex05/AssignmentOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/S3/chapter03/ex06/ConditionalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/S3/chapter03/ex06/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/S3/operator/Comp1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/S3/operator/Logical2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/S4/chapter04/ex01/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/S4/chapter04/ex01/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/S4/chapter04/ex01/If_Statement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/S4/chapter04/ex02/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/S4/chapter04/ex02/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/S4/chapter04/ex02/Switch_Statement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/S4/chapter04/ex03/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/S4/chapter04/ex03/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/S4/chapter04/ex03/Ex04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/S4/chapter04/ex03/For_Statement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/S4/chapter04/ex03/For_Statement02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/S4/chapter04/ex03/For_Statement03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/S4/chapter04/ex03/For_Statement04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/S4/chapter04/ex04/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/S4/chapter04/ex04/While_Statement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/S4/chapter04/ex04/While_Statement02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/S4/chapter04/ex05/Do_While_Statement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/S4/chapter04/ex05/Do_While_Statement02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/S4/chapter04/ex05/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/S4/chapter04/ex06/Break_controll_Statement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/S4/chapter04/ex06/Continue_controll_Statement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/S4/chapter04/ex06/Ex01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/9/091eb7f264fce1329efa4779dcbb84ae0d4bea47" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/c/2c7e13f56f5c8e84088db3d093f987c601286efd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/8/3844c4e5a7053826bbd6ecb648fa5d97b82a3929" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/f/ffd74cbb22de09393fee050a4c639610882a05f7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/9/091eb7f264fce1329efa4779dcbb84ae0d4bea47" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/c/2c7e13f56f5c8e84088db3d093f987c601286efd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/8/3844c4e5a7053826bbd6ecb648fa5d97b82a3929" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/f/ffd74cbb22de09393fee050a4c639610882a05f7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-start.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-start.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/cond/CondOp1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/cond/CondOp2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/cond/If1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/cond/If2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/cond/If3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/cond/If4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/cond/If5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/cond/If6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/cond/Switch1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/cond/Switch2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/cond/Switch3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/cond/Switch4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/cond/ex/CondOpEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/cond/ex/DistanceEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/cond/ex/EvenOddEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/cond/ex/ExchangeRateEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/cond/ex/GradeSwitchEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/cond/ex/MoveRateEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/cond/ex/ScoreEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/operator/Assign1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/operator/Comp1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/operator/Comp2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/operator/Logical1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/operator/Logical2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/operator/Operator1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/operator/Operator2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/operator/Operator3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/operator/Operator4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/operator/OperatorAdd1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/operator/OperatorAdd2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/operator/ex/OperationEx1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/operator/ex/OperationEx2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/operator/ex/OperationEx3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/variable/Var1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/variable/Var2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/variable/Var3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/variable/Var4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/variable/Var5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/variable/Var6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/variable/Var7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/variable/Var8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/variable/ex/VarEx1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/variable/ex/VarEx1Question.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/variable/ex/VarEx2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/variable/ex/VarEx3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cond/CondOp1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S4/cond/CondOp1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cond/CondOp2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S4/cond/CondOp2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cond/If1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S4/cond/If1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cond/If2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S4/cond/If2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cond/If3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S4/cond/If3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cond/If4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S4/cond/If4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cond/If5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S4/cond/If5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cond/If6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S4/cond/If6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cond/Switch1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S4/cond/Switch1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cond/Switch2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S4/cond/Switch2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cond/Switch3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S4/cond/Switch3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cond/Switch4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S4/cond/Switch4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cond/ex/CondOpEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S4/cond/ex/CondOpEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cond/ex/DistanceEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S4/cond/ex/DistanceEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cond/ex/EvenOddEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S4/cond/ex/EvenOddEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cond/ex/ExchangeRateEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S4/cond/ex/ExchangeRateEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cond/ex/GradeSwitchEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S4/cond/ex/GradeSwitchEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cond/ex/MoveRateEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S4/cond/ex/MoveRateEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cond/ex/ScoreEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S4/cond/ex/ScoreEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loop/Break1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop/Break1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loop/While1_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop/While1_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loop/While2_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop/While2_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operator/Assign1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S3/operator/Assign1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operator/Comp1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operator/Comp2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S3/operator/Comp2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operator/Logical1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S3/operator/Logical1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operator/Logical2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operator/Operator1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S3/operator/Operator1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operator/Operator2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S3/operator/Operator2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operator/Operator3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S3/operator/Operator3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operator/Operator4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S3/operator/Operator4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operator/OperatorAdd1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S3/operator/OperatorAdd1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operator/OperatorAdd2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S3/operator/OperatorAdd2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operator/ex/OperationEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S3/operator/ex/OperationEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operator/ex/OperationEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S3/operator/ex/OperationEx2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operator/ex/OperationEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S3/operator/ex/OperationEx3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variable/Var1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S2/variable/Var1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variable/Var2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S2/variable/Var2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variable/Var3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S2/variable/Var3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variable/Var4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S2/variable/Var4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variable/Var5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S2/variable/Var5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variable/Var6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S2/variable/Var6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variable/Var7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S2/variable/Var7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variable/Var8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S2/variable/Var8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variable/ex/VarEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S2/variable/ex/VarEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variable/ex/VarEx1Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S2/variable/ex/VarEx1Question.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variable/ex/VarEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S2/variable/ex/VarEx2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variable/ex/VarEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S2/variable/ex/VarEx3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variableexercise/Var1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S2/variableexercise/Var1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variableexercise/Var2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S2/variableexercise/Var2.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2hwmkY5svnpA0yb13JvLNjjE14e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/git/2405/0507/java-start/1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true",
+    "애플리케이션.Break1.executor": "Run",
+    "애플리케이션.Comp1.executor": "Run",
+    "애플리케이션.DoWhile2.executor": "Run",
+    "애플리케이션.If4.executor": "Run",
+    "애플리케이션.Logical2.executor": "Run",
+    "애플리케이션.LogicalOperator.executor": "Run",
+    "애플리케이션.Switch2.executor": "Run",
+    "애플리케이션.Switch3.executor": "Run",
+    "애플리케이션.Switch4.executor": "Run",
+    "애플리케이션.While2_2.executor": "Run",
+    "애플리케이션.opex1.executor": "Run",
+    "애플리케이션.var3ex.executor": "Run"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\git\2405\0507\java-start\1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\git\2405\0507\java-start\src\S4" />
+      <recent name="C:\git\2405\0507\java-start\src\S2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="애플리케이션.Break1">
+    <configuration name="Break1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.Break1" />
+      <module name="java-start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoWhile2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.DoWhile2" />
+      <module name="java-start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Switch3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="S4.cond.Switch3" />
+      <module name="java-start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="S4.cond.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Switch4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="S4.cond.Switch4" />
+      <module name="java-start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="S4.cond.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="While2_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.While2_2" />
+      <module name="java-start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="애플리케이션.Break1" />
+        <item itemvalue="애플리케이션.DoWhile2" />
+        <item itemvalue="애플리케이션.While2_2" />
+        <item itemvalue="애플리케이션.Switch4" />
+        <item itemvalue="애플리케이션.Switch3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="798379cb-5064-40e3-bfcf-6085d05339a2" name="변경" comment="" />
+      <created>1718513659057</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718513659057</updated>
+      <workItem from="1718513660190" duration="148000" />
+      <workItem from="1718513824360" duration="8423000" />
+      <workItem from="1718606234125" duration="6738000" />
+      <workItem from="1718614979443" duration="428000" />
+      <workItem from="1718615429972" duration="2481000" />
+      <workItem from="1718693014378" duration="4954000" />
+    </task>
+    <task id="LOCAL-00001" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1718519684842</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718519684842</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1718519694102</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718519694102</updated>
+    </task>
+    <task id="LOCAL-00003" summary="616">
+      <option name="closed" value="true" />
+      <created>1718519726534</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718519726534</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <MESSAGE value="616" />
+    <option name="LAST_COMMIT_MESSAGE" value="616" />
+  </component>
+</project>

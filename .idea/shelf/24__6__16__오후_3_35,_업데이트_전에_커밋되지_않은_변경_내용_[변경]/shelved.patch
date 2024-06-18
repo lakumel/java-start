@@ -1,0 +1,173 @@
+Index: .idea/.gitignore
+===================================================================
+diff --git a/.idea/.gitignore b/.idea/.gitignore
+deleted file mode 100644
+--- a/.idea/.gitignore	(revision c32ef10962b2cfa2bf7cc2b10172e9daca7e7e6f)
++++ /dev/null	(revision c32ef10962b2cfa2bf7cc2b10172e9daca7e7e6f)
+@@ -1,8 +0,0 @@
+-# 디폴트 무시된 파일
+-/shelf/
+-/workspace.xml
+-# 에디터 기반 HTTP 클라이언트 요청
+-/httpRequests/
+-# Datasource local storage ignored files
+-/dataSources/
+-/dataSources.local.xml
+Index: java-start.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<module type=\"JAVA_MODULE\" version=\"4\">\r\n  <component name=\"NewModuleRootManager\" inherit-compiler-output=\"true\">\r\n    <exclude-output />\r\n    <content url=\"file://$MODULE_DIR$\">\r\n      <sourceFolder url=\"file://$MODULE_DIR$/src\" isTestSource=\"false\" />\r\n    </content>\r\n    <orderEntry type=\"inheritedJdk\" />\r\n    <orderEntry type=\"sourceFolder\" forTests=\"false\" />\r\n  </component>\r\n  <component name=\"SonarLintModuleSettings\">\r\n    <option name=\"uniqueId\" value=\"b79e8a89-47bb-431b-9074-3d4dcc3be02f\" />\r\n  </component>\r\n</module>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/java-start.iml b/java-start.iml
+--- a/java-start.iml	(revision c32ef10962b2cfa2bf7cc2b10172e9daca7e7e6f)
++++ b/java-start.iml	(date 1718513693532)
+@@ -8,7 +8,4 @@
+     <orderEntry type="inheritedJdk" />
+     <orderEntry type="sourceFolder" forTests="false" />
+   </component>
+-  <component name="SonarLintModuleSettings">
+-    <option name="uniqueId" value="b79e8a89-47bb-431b-9074-3d4dcc3be02f" />
+-  </component>
+ </module>
+\ No newline at end of file
+Index: src/variableexercise/var4ex.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/variableexercise/var4ex.java b/src/variableexercise/var4ex.java
+new file mode 100644
+--- /dev/null	(date 1718510955710)
++++ b/src/variableexercise/var4ex.java	(date 1718510955710)
+@@ -0,0 +1,10 @@
++package variableexercise;
++
++public class var4ex {
++
++    public static void main(String[] args){
++        int a;
++
++    }
++
++}
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ProjectRootManager\" version=\"2\" project-jdk-name=\"21\" project-jdk-type=\"JavaSDK\">\r\n    <output url=\"file://$PROJECT_DIR$/out\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+--- a/.idea/misc.xml	(revision c32ef10962b2cfa2bf7cc2b10172e9daca7e7e6f)
++++ b/.idea/misc.xml	(date 1718513693563)
+@@ -1,6 +1,6 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+-  <component name="ProjectRootManager" version="2" project-jdk-name="21" project-jdk-type="JavaSDK">
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="temurin-21" project-jdk-type="JavaSDK">
+     <output url="file://$PROJECT_DIR$/out" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: .idea/sonarlint/securityhotspotstore/index.pb
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>\n9\n\tREADME.md\u0012,8\\e\\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d\nC\n\u0013src/HelloJava2.java\u0012,2\\c\\2c7e13f56f5c8e84088db3d093f987c601286efd\nB\n\u0012src/HelloJava.java\u0012,0\\9\\091eb7f264fce1329efa4779dcbb84ae0d4bea47\n:\n\n.gitignore\u0012,a\\5\\a5cc2925ca8258af241be7e5b0381edf30266302\n=\n\rsrc/Main.java\u0012,9\\2\\924f089edb4af5ee45c8a9d1129cd28e2b368138\nN\n\u001Esrc/variableexercise/Var1.java\u0012,f\\f\\ffd74cbb22de09393fee050a4c639610882a05f7\nN\n\u001Esrc/variableexercise/Var2.java\u0012,3\\8\\3844c4e5a7053826bbd6ecb648fa5d97b82a3929
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/sonarlint/securityhotspotstore/index.pb b/.idea/sonarlint/securityhotspotstore/index.pb
+--- a/.idea/sonarlint/securityhotspotstore/index.pb	(revision c32ef10962b2cfa2bf7cc2b10172e9daca7e7e6f)
++++ b/.idea/sonarlint/securityhotspotstore/index.pb	(date 1718514436710)
+@@ -1,17 +1,7 @@
+ 
+ 9
+ 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+-C
+-src/HelloJava2.java,2\c\2c7e13f56f5c8e84088db3d093f987c601286efd
+-B
+-src/HelloJava.java,0\9\091eb7f264fce1329efa4779dcbb84ae0d4bea47
+-:
+-
+-.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+-=
+-
+-src/Main.java,9\2\924f089edb4af5ee45c8a9d1129cd28e2b368138
+-N
+-src/variableexercise/Var1.java,f\f\ffd74cbb22de09393fee050a4c639610882a05f7
+-N
+-src/variableexercise/Var2.java,3\8\3844c4e5a7053826bbd6ecb648fa5d97b82a3929
+\ No newline at end of file
++P
++ src/variableexercise/var3ex.java,6\7\675c74551cb34ca25018b630f6652b619c961c50
++F
++src/variable/Var7.java,d\1\d1f4791682dffa82c2178702fa3fa55fb5160efa
+\ No newline at end of file
+Index: src/variableexercise/var3ex.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/variableexercise/var3ex.java b/src/variableexercise/var3ex.java
+new file mode 100644
+--- /dev/null	(date 1718510867757)
++++ b/src/variableexercise/var3ex.java	(date 1718510867757)
+@@ -0,0 +1,22 @@
++package variableexercise;
++
++public class var3ex {
++    public static void main(String[] args) {
++        int a;
++        a = 1;
++
++        System.out.println(a);
++
++        int b;
++        b=2;
++        System.out.println(b);
++
++        int c= 3, d=4;
++        System.out.println(c);
++        System.out.println(d);
++
++
++
++
++    }
++}
+Index: .idea/sonarlint/issuestore/index.pb
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>\n9\n\tREADME.md\u0012,8\\e\\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d\nC\n\u0013src/HelloJava2.java\u0012,2\\c\\2c7e13f56f5c8e84088db3d093f987c601286efd\nB\n\u0012src/HelloJava.java\u0012,0\\9\\091eb7f264fce1329efa4779dcbb84ae0d4bea47\n:\n\n.gitignore\u0012,a\\5\\a5cc2925ca8258af241be7e5b0381edf30266302\n=\n\rsrc/Main.java\u0012,9\\2\\924f089edb4af5ee45c8a9d1129cd28e2b368138\nN\n\u001Esrc/variableexercise/Var1.java\u0012,f\\f\\ffd74cbb22de09393fee050a4c639610882a05f7\nN\n\u001Esrc/variableexercise/Var2.java\u0012,3\\8\\3844c4e5a7053826bbd6ecb648fa5d97b82a3929
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/sonarlint/issuestore/index.pb b/.idea/sonarlint/issuestore/index.pb
+--- a/.idea/sonarlint/issuestore/index.pb	(revision c32ef10962b2cfa2bf7cc2b10172e9daca7e7e6f)
++++ b/.idea/sonarlint/issuestore/index.pb	(date 1718514436708)
+@@ -1,17 +1,7 @@
+ 
+ 9
+ 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+-C
+-src/HelloJava2.java,2\c\2c7e13f56f5c8e84088db3d093f987c601286efd
+-B
+-src/HelloJava.java,0\9\091eb7f264fce1329efa4779dcbb84ae0d4bea47
+-:
+-
+-.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+-=
+-
+-src/Main.java,9\2\924f089edb4af5ee45c8a9d1129cd28e2b368138
+-N
+-src/variableexercise/Var1.java,f\f\ffd74cbb22de09393fee050a4c639610882a05f7
+-N
+-src/variableexercise/Var2.java,3\8\3844c4e5a7053826bbd6ecb648fa5d97b82a3929
+\ No newline at end of file
++P
++ src/variableexercise/var3ex.java,6\7\675c74551cb34ca25018b630f6652b619c961c50
++F
++src/variable/Var7.java,d\1\d1f4791682dffa82c2178702fa3fa55fb5160efa
+\ No newline at end of file

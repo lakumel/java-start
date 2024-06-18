@@ -6,6 +6,10 @@ public class Break1 {
         int sum = 0;
         int i = 1;
 
+//        while(true){
+//      //while만 있을 경우 무한 반복을 한다.
+//        }
+
         while(true) {
             sum = sum + i;
             if (sum > 10) {

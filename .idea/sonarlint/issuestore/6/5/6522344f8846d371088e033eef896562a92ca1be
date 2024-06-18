@@ -1,0 +1,7 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(š¹‡¹8‹à£©‚2J$68b2f4f7-ff21-4874-9ab5-06a2d7b195bd
+†
+java:S1764	"ECorrect one of the identical sub-expressions on both sides of equals.(ãæŽúþÿÿÿÿJ$9e911eb3-07d6-4bed-895a-9114ba72e987
+k	java:S106"+Replace this use of System.out by a logger.(›êÞÂúÿÿÿÿJ$d8dcf8cf-3365-4cf0-87ab-e440e9c39f98
+f	java:S106"+Replace this use of System.out by a logger.(àÓ¨¨J$09f98262-8c3f-4600-bf63-c87a31dd93f2
+k	java:S106"+Replace this use of System.out by a logger.(…ÚÇˆýÿÿÿÿJ$c75e96af-4a8f-4730-8e62-c75408b2641e

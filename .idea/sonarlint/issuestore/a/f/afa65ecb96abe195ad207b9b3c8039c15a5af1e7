@@ -1,0 +1,18 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷‹¹¥ùÿÿÿÿ
+^
+java:S62083"CMerge the previous cases into this one using comma-separated label.(³³»ùÿÿÿÿ
+Y
+java:S62086"CMerge the previous cases into this one using comma-separated label.(´¡–ó
+?	java:S106"+Replace this use of System.out by a logger.(¿T
+?	java:S106 "+Replace this use of System.out by a logger.(Ø®¦
+E	java:S106#"+Replace this use of System.out by a logger.(»ãõŸıÿÿÿÿ
+E	java:S106&"+Replace this use of System.out by a logger.(ˆÑ¯‘ûÿÿÿÿ
+@	java:S106)"+Replace this use of System.out by a logger.(ÇÇšØ
+Q	java:S125*"<This block of commented-out lines of code should be removed.(±¯€¤
+E	java:S106,"+Replace this use of System.out by a logger.(ıØ±üÿÿÿÿ
+@	java:S106/"+Replace this use of System.out by a logger.(–¿Û´
+?	java:S1064"+Replace this use of System.out by a logger.(Ø®¦
+E	java:S1067"+Replace this use of System.out by a logger.(»ãõŸıÿÿÿÿ
+E	java:S106:"+Replace this use of System.out by a logger.(ˆÑ¯‘ûÿÿÿÿ
+@	java:S106="+Replace this use of System.out by a logger.(ÇÇšØ

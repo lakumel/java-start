@@ -1,0 +1,26 @@
+
+ˆ	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‚É‡J$e0ab6c53-a9e8-4f69-a111-7257dfa496d9
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷‹¹¥ùÿÿÿÿJ$ca91f928-20ee-46d5-918c-40e98d927aa9
+Œ	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(µ»ïşıÿÿÿÿJ$f2eadda5-1eb2-4bcc-a3c2-1f909fcf071d
+Œ	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(‰ÆÄÎşÿÿÿÿJ$dc7e9880-5929-432b-b5df-fb5a26c51963
+Œ	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(úâúÿÿÿÿJ$70104461-7ba0-4d0e-aa25-0efb2c0aeec2
+Œ	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(ªëÅŞúÿÿÿÿJ$3cd1f6e9-811a-4725-b0b4-22003685b7c9
+e	java:S106"+Replace this use of System.out by a logger.(ÜÄ™gJ$53c6a815-11dc-4ca9-8944-ec21b7c2ce95
+k	java:S106"+Replace this use of System.out by a logger.(‘Ô¶ŒúÿÿÿÿJ$c86c830b-7093-45d8-b806-167ab9c9315f
+f	java:S106"+Replace this use of System.out by a logger.(Ô·êJ$0bdb00ce-6318-4b6a-8471-ecd2d12675d5
+k	java:S106"+Replace this use of System.out by a logger.(‰ì±ÀùÿÿÿÿJ$572b6bee-41a6-473a-85ce-419442b25fbd
+f	java:S106"+Replace this use of System.out by a logger.(Îé‚¾J$1584f98e-7225-4697-8e42-5ba83af8ba67
+f	java:S106"+Replace this use of System.out by a logger.(Ğ—ÍèJ$fbf1a007-5f10-4947-91e2-e86991b3c2d6
+e	java:S106&"+Replace this use of System.out by a logger.(ÜÄ™gJ$962fbd2e-bfa7-4d2e-9e9b-caef8b3b9946
+k	java:S106)"+Replace this use of System.out by a logger.(‘Ô¶ŒúÿÿÿÿJ$18495e34-2067-4650-87d6-e09cc84db781
+f	java:S106,"+Replace this use of System.out by a logger.(Ô·êJ$098c0691-edc9-4d76-9c45-7a153e90ea93
+k	java:S106/"+Replace this use of System.out by a logger.(‰ì±ÀùÿÿÿÿJ$0509e6d5-91fc-49f6-ad0e-23292d46aedc
+f	java:S1062"+Replace this use of System.out by a logger.(ÄèÇ¥J$b8770bba-06a3-4e2c-b550-76925df0f7c7
+f	java:S1068"+Replace this use of System.out by a logger.(‡„ÑĞJ$65caa649-11e7-4dd1-aef7-8ee2e09bb0f2
+r
+java:S68809"6Replace the chain of if/else with a switch expression.(ÕíÅ¤J$b116574d-32f7-40ae-acae-6849b174419e
+f	java:S106:"+Replace this use of System.out by a logger.(Ô·êJ$678ebca4-6895-4b51-903d-d6400d800f75
+k	java:S106<"+Replace this use of System.out by a logger.(‘Ô¶ŒúÿÿÿÿJ$26ead4b0-293b-49f4-b40a-d67ce08679f0
+f	java:S106>"+Replace this use of System.out by a logger.(Ô·êJ$20a60d39-117c-491e-8fc3-d288a443ee5a
+k	java:S106@"+Replace this use of System.out by a logger.(‰ì±ÀùÿÿÿÿJ$33d3f809-4bc6-4abb-95f6-79e667351a9b
+f	java:S106B"+Replace this use of System.out by a logger.(ÄèÇ¥J$15bf42af-7e76-45e6-9335-ca49b1769c0d

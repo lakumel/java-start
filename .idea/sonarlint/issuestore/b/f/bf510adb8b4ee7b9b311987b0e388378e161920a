@@ -1,0 +1,6 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”ˆ‰²ÿÿÿÿÿ8·Ô¡«‚2J$001c6cc8-c390-4182-997d-d87a07a58e1c
+}
+java:S1854":Remove this useless assignment to local variable "coupon".(ØÂÿÙ8Òõ¥«‚2J$07988cb7-a3c6-4f0e-beca-b4c46b755142
+“	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(úâúÿÿÿÿ8Òõ¥«‚2J$0f043819-a8eb-47f7-9099-023d25d75c8d
+r	java:S106"+Replace this use of System.out by a logger.(šÕÎ«şÿÿÿÿ8ºÔ¡«‚2J$8b72cbf6-b368-4f8d-b426-53ebeeb997dc
