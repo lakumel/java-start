@@ -9,6 +9,8 @@ public class WhileEx2 {
             System.out.println(num);
             num += 2;
             count ++;
+
+
         }
     }
 }
